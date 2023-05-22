@@ -1,0 +1,12 @@
+
+Q:
+¿Qué es Make? ¿Qué son los makefiles?
+A:
+Make es una herramienta de gestión de dependencias, típicamente, las que existen entre los archivos que componen el código fuente de un programa, para dirigir su recompilación o "generación" automáticamente. Se usan típicamente en C/C++.
+
+Los makefiles son los ficheros de texto que utiliza make para llevar la gestión de la compilación de programas.
+
+-----
+Por ejemplo, este es un gráfico de dependencia que se puede construir con Make
+(1er figura de makefiletutorial.com)
+Si la dependencia de algún archivo cambia, entonces el archivo se recompila

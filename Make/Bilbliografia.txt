@@ -1,0 +1,7 @@
+Make (Wikipedia)
+https://es.wikipedia.org/wiki/Make
+
+MakeFile tutorial (focused on the C/C++ compilation use case)
+https://makefiletutorial.com/#getting-started
+
+No se puede usar en Windows nativamente. Tengo que instalar algún programa o bien usar un equivalente de Make
