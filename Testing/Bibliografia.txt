@@ -1,0 +1,2 @@
+Preguntas sacadas de
+https://programacionymas.com/blog/tipos-de-testing-en-desarrollo-de-software
