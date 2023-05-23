@@ -51,7 +51,7 @@ Verifican cómo responde el sistema cuando éste se encuentra bajo una alta carg
 Q:
 ¿Qué es una test suite?
 A:
-Es un conjunto de tests particulares para nuestro programa que engloba distintos tipos de tests.
+Es una colección de tests particulares para nuestro programa que engloba distintos tipos de tests.
 
 Q:
 ¿Cómo automatizar los tests?
